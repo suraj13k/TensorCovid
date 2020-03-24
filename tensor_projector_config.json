@@ -1,0 +1,13 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "My tensor",
+      "tensorShape": [
+        1000,
+        50
+      ],
+      "metadataPath": "https://mailuc-my.sharepoint.com/:u:/g/personal/kannaysj_mail_uc_edu/EST-rNgdE5hMh_mUNea85SkBP-aoZpH_utJB7lmIbExBpA?e=6bzTgy",
+      "tensorPath": "https://mailuc-my.sharepoint.com/:u:/g/personal/kannaysj_mail_uc_edu/Eb1krtASbIRHj5UKRztPu1cBaPVHWDHBPTt5DBXFIrwDeA?e=E9Mkmk"
+    }
+  ]
+}
